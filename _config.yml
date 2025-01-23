@@ -4,7 +4,7 @@ permalink: /docs-gem5
 
 # Build settings
 #theme: "just-the-docs" # for local
-remote_theme: pmarsceill/just-the-docs # for github
+remote_theme: just-the-docs/just-the-docs # for github
 color_scheme: dark
 
 # Callout definition
