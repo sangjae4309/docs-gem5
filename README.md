@@ -1,1 +1,1 @@
-https://sangjae4309.github.io/docs_gem5/
+https://sangjae4309.github.io/docs-gem5/
