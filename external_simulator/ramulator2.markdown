@@ -44,10 +44,8 @@ gem5/
 ```
 - Above tree shows overall files which requires modification to integrate gem5 and ramulator2 and its path
 
-{: .note-title }
-> note
->
-> You can get all complete code at [my github.](https://github.com/sangjae4309/gem5_ramulator2). This docs mainly guides how to integrate ramulator with gem5 and its required modification. To run ramulator2 locally, please refer to [ramulator2 official repo](https://github.com/CMU-SAFARI/ramulator2) 
+{: .note }
+You can get all complete code at [my github.](https://github.com/sangjae4309/gem5_ramulator2). This docs mainly guides how to integrate ramulator with gem5 and its required modification. To run ramulator2 locally, please refer to [ramulator2 official repo](https://github.com/CMU-SAFARI/ramulator2) 
 
 -----
 

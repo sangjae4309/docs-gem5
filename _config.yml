@@ -8,12 +8,13 @@ remote_theme: just-the-docs/just-the-docs # for github
 color_scheme: dark
 
 # Callout definition
-callouts:
-  warning:
-    color: yellow
-  important:
-    color: blue
-  danger:
-    color: red
-
+#callouts:
+#  warning:
+#    color: yellow
+#  important:
+#    color: blue
+#  danger:
+#    color: red
+aux_links:
+  Template Repository: https://github.com/sangjae4309/docs-gem5
 
