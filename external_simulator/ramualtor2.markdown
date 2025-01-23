@@ -44,12 +44,8 @@ gem5/
 ```
 - Above tree shows overall files which requires modification to integrate gem5 and ramulator2 and its path
 
-{: .warning }
-This docs mainly guides only modification on gem5 source files.
-To set-up ramulator2 local file, please refer to [ramulator2 documentation.](https://github.com/CMU-SAFARI/ramulator2)
-
-{: .important }
-You can get all complete code at [my github.](https://github.com/sangjae4309/gem5_ramulator2)
+{: .note }
+You can get all complete code at [my github.](https://github.com/sangjae4309/gem5_ramulator2). This docs mainly guides how to integrate ramulator with gem5 and its required modification. To run ramulator2 locally, please refer to [ramulator2 official repo](https://github.com/CMU-SAFARI/ramulator2) 
 
 -----
 
@@ -103,10 +99,6 @@ else:
 ```
 - While the conventional dram class returns dram interface instance by calling function called controller(), Ramulator2 is not
 - Connect it to dram_intf
-
-
-## Creating Wrapper
- - TBD
 
 ----
 
