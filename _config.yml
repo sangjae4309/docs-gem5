@@ -12,7 +12,7 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: Note
     color: blue
   new:
     title: New
