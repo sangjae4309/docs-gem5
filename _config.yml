@@ -1,20 +1,9 @@
-title: gem5
-email: mainpower4309@gmail.com
-permalink: /docs-gem5
+title: gem5 blog
 
-# Build settings
-#theme: "just-the-docs" # for local
-remote_theme: just-the-docs/just-the-docs # for github
+remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-# Callout definition
-#callouts:
-#  warning:
-#    color: yellow
-#  important:
-#    color: blue
-#  danger:
-#    color: red
+url: https://sangjae4309.github.io/docs-gem5
+
 aux_links:
   Template Repository: https://github.com/sangjae4309/docs-gem5
-
